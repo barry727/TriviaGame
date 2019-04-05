@@ -80,7 +80,7 @@ $(document).ready(function () {
     //timer start
     function runTimer(){
         if (!running) {
-        intervalId = setInterval(decrement, 2000); 
+        intervalId = setInterval(decrement, 1000); 
         running = true;
         }
     }
