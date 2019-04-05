@@ -6,3 +6,4 @@ Trivia Game based on the Three Stooges. Simply click the "Start" button, and you
 ## Technologies Used: 
 HTML, CSS, Bootstrap, JavaScript, jQuery
 
+<img src="./assets/images/readme.png">
